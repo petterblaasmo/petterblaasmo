@@ -6,7 +6,7 @@ Passionate development from Norway.
 - I am currently improving my skills in SourcePawn and HTML.
 - Taking paid requests, contact me for more info.
 - Looking to collaborate with experienced discord.js developers.
-- Contact me [here](https://discord.bio/petter)
+- Contact me [here](https://discord.bio/p/petter)
 <br><br>
 <b>Languages</b><br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="24" height="24"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width="24" height="24"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="22" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="24" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="18" height="24"> <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/d1/d12991a4f919417c846817232165db091c4a13c9_full.jpg" alt="SourcePawn" width="24" height="24">
