@@ -16,4 +16,4 @@
 
 ### Contact/Find Me
 💬 steam • [petter](https://steamcommunity.com/id/unsmooth)  
-💬 discord • [petter#5554](dsc.bio/blaasmo)
+💬 discord • [petter#5554](https://dsc.bio/blaasmo)
