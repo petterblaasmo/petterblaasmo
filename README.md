@@ -6,12 +6,12 @@
 
 ---
 ### Experience & Skills
-- Python (d.py, Pillow, Matplotlib, Flask)  
-- JavaScript, TypeScript, Node (d.js, Express, Socket.IO)  
-- HTML, CSS (Tailwind)
-- React, Vue (Next, Nuxt)  
-- Redis  
-- PostgreSQL, MySQL, MongoDB
+- Python (through school)
+- C++ (through school)
+- HTML,CSS,JS (hobby)
+- Node.js (hobby)
+- Sourcepawn (community)
+- MySQL (community)
 ---
 
 ### Contact/Find Me
