@@ -12,11 +12,6 @@
 - Node.js (hobby)
 - Sourcepawn (community)
 - MySQL (community)
----
-
-### Contact/Find Me
-💬 steam • [petter](https://steamcommunity.com/id/unsmooth)  
-💬 discord • [petter#5554](https://dsc.bio/blaasmo)
 
 <details>
   <summary>Stats</summary>
@@ -25,3 +20,8 @@
   
   ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Blaasmo&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
  </details>
+---
+
+### Contact/Find Me
+💬 steam • [petter](https://steamcommunity.com/id/unsmooth)  
+💬 discord • [petter#5554](https://dsc.bio/blaasmo)
