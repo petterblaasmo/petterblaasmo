@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.com/users/799389822749638676">
-    <h1>Hover me</h1>
+    <p style="font-size: 20px; font-weight: 700">Hover me</p>
     <img src="https://discord.c99.nl/widget/theme-4/799389822749638676.png" alt="petter" />
   </a>
 </p>
