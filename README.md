@@ -1,11 +1,4 @@
 <p align="center">
-  <a href="https://discord.com/users/799389822749638676">
-    <p style="font-size: 20px; font-weight: 700; text-decoration: none; color: #fff">Hover me</p>
-    <img src="https://discord.c99.nl/widget/theme-4/799389822749638676.png" alt="petter" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://legacycsgo.com"
   <tr>
     <td align="center" style="padding=0;width=50%;">
