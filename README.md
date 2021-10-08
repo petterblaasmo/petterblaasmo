@@ -1,15 +1,8 @@
-<div align="center">
-  <img alt="" src=https://img.shields.io/github/stars/Blaasmo?affiliations=OWNER%2CCOLLABORATOR />
-  <img alt="" src=https://komarev.com/ghpvc/?username=Blaasmo />
-</div>
+<a href="https://www.discord.com/users/799389822749638676">
+  <div align="center">
+    <img alt="" src=https://img.shields.io/github/stars/Blaasmo?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=Blaasmo />
+  </div>
 
-## Hello, I'm Petter 👋
-
-### About 📌
-![Metrics](https://metrics.lecoq.io/Blaasmo?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
-
-### Contact
-Discord > **[petter#5554](https://www.discord.com/users/799389822749638676)**<br />
-Website > **[LegacyCSGO.com](https://legacycsgo.com)**<br />
-Server  > **[LegacyCSGO.com/Discord](https://legacycsgo.com/discord)**<br />
-Email   > **[petterblaasmo](mailto:petterblaasmo@gmail.com)**
+  ![Metrics](https://metrics.lecoq.io/Blaasmo?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
+</a>
