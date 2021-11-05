@@ -1,14 +1,43 @@
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=petterblaasmo&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)
-<h1>🎵 My Spotify Stats!</h1>
-<table align="center">
-  <thead>
-    <tr>
-      <td>
-        <h3>Last Played Song</h3>
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=pf3t2e8kqeudc7kd6atzlbp0y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="" />
-      </td>
-    </tr>
-</table>
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<h3>
+  
+```javascript
+​
+import petter from freelance-developer;
 
-![Visits Badge](https://badges.pufler.dev/visits/petterblaasmo/Blaasmo)
+const aboutMe = () => {
+  const hobbies = [
+    { name: "Programming", description: "I enjoy coding for clients" },
+    { name: "Play Games", description: "I play a lot of games" },
+    { name: "Working Out", description: "I enjoy going to the gym" }
+  ];
+
+  const games = {
+    fps: ["CS:GO", "Valorant"],
+    other: ["Minecraft"]  
+  };
+
+  const languages = [
+    { name: "C++", start: "2016", skill: 8 }, // C++
+    { name: "JS", start: "2017", skill: 9 }, // JavaScript
+    { name: "PHP", start: "2018", skill: 7 }, // PHP
+    { name: "Py", start: "2019", skill: 9 }, // Python
+    { name: "SP", start: "2020", skill: 8 } // SourcePawn
+  ];
+  
+  const projects = [
+    { name: "NFT Helper", status: "active", language: "JS", type: "discord" },
+    { name: "RAM WL BOT", status: "active", language: "JS", type: "discord" },
+    { name: "Legacy BOT", status: "closed", language: "JS", type: "discord" },
+    { name: "Legacy API", status: "closed", language: "SP", type: "anti-cheat" },
+    { name: "Legacy WEB", status: "closed", language: "PHP", type: "dashboard" }
+    // Most of my work is closed-source
+  ]
+  
+  return { hobbies, games, languages, projects };
+}
+  
+module.exports = aboutMe;
+​
+```
+  
+</h3>
