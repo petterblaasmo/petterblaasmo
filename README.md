@@ -9,11 +9,13 @@ const aboutMe = () => {
     { name: "Programming", description: "I enjoy coding for clients" },
     { name: "Play Games", description: "I play a lot of games" },
     { name: "Working Out", description: "I enjoy going to the gym" }
+    // Currently, you will mostly see me code or working out
   ];
 
   const games = {
     fps: ["CS:GO", "Valorant"],
-    other: ["Minecraft"]  
+    other: ["Minecraft"]
+    // Trying to find new games
   };
 
   const languages = [
@@ -22,6 +24,7 @@ const aboutMe = () => {
     { name: "PHP", start: "2018", skill: 7 }, // PHP
     { name: "Py", start: "2019", skill: 9 }, // Python
     { name: "SP", start: "2020", skill: 8 } // SourcePawn
+    // I mostly do JavaScript, I enjoy Python challenges
   ];
   
   const projects = [
@@ -31,9 +34,16 @@ const aboutMe = () => {
     { name: "Legacy API", status: "closed", language: "SP", type: "anti-cheat" },
     { name: "Legacy WEB", status: "closed", language: "PHP", type: "dashboard" }
     // Most of my work is closed-source
+  ];
+  
+  const socials = [
+    { platform: "discord", name: "petter#3437" },
+    { platform: "steam", name: "id/unsmooth" },
+    { platform: "email", name: "petterblaasmo@gmail.com" }
+    // Do not hesitate to contact me
   ]
   
-  return { hobbies, games, languages, projects };
+  return { hobbies, games, languages, projects, socials };
 }
   
 module.exports = aboutMe;
