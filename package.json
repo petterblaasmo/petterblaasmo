@@ -1,0 +1,23 @@
+{
+  "name": "petterblaasmo",
+  "version": "1.0.0",
+  "description": "<h3>",
+  "main": "updateReadme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petterblaasmo/petterblaasmo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petterblaasmo/petterblaasmo/issues"
+  },
+  "homepage": "https://github.com/petterblaasmo/petterblaasmo#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
