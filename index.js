@@ -5,6 +5,8 @@ const ReadMe = `\`\`\`javascript
     Hello - ${new Date()}
 \`\`\``;
 
+console.log("Init");
+
 fs.writeFile("README.md", ReadMe, "utf-8", (err) => {
   if (err) throw err;
 });
