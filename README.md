@@ -8,7 +8,7 @@
 $ npm start
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/909697848831004734/1082796194859864114/github.jpg" alt="" height="269" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/909697848831004734/1082796194859864114/github.jpg" alt="" height="240" /> 
 
 ```ts
 AboutMe {
