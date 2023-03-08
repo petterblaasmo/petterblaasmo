@@ -13,7 +13,7 @@ $ npm start
 ```ts
 AboutMe {
   name: "Petter Blåsmo",
-  location: "Tronheim, Norway",
+  location: "Trondheim, Norway",
   interests: [
     "Web Development",
     "UI/UX",
