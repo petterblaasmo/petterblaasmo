@@ -28,7 +28,7 @@ AboutMe {
 <br />
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://petterblaasmo.com">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,express,mongodb,discord,bots,sass,python,arduino&coding=cute" />
   </a>
 </p>
