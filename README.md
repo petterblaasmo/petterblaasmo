@@ -1,17 +1,19 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=petterblaasmo" alt="" />
-</p>
+Full-stack developer at Cure, Norway.
 
-<img align="left" src="https://cdn.discordapp.com/attachments/909697848831004734/1082796194859864114/github.jpg" alt="" height="239" /> 
+###### Building
 
-<br />
+[![](icons/lun.svg) **Lun**](https://github.com/petterblaasmo/lun) &nbsp; A small, fast, quiet browser for the Mac.  
+[![](icons/csdetect.svg) **csdetect**](https://csdetect.com) &nbsp; Look up a CS2 player and see whether the numbers add up.  
+![](icons/snakk.svg) **Snakk** (soon) &nbsp; Norwegian speech-to-text for Mac and Windows.
 
-<p align="center">
-  <a href="https://petterblaasmo.com">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,express,mongodb,discord,bots,sass,python,arduino&coding=cute" />
-  </a>
-</p>
+###### Made with
 
-<p align="center" height="300">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pf3t2e8kqeudc7kd6atzlbp0y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="" />
-</p>
+![](icons/design.svg) **Design** &nbsp; Interface, brand, type  
+![](icons/motion.svg) **Motion** &nbsp; GSAP, SVG, CSS  
+![](icons/depth.svg) **3D** &nbsp; Three.js, OGL, WebGL  
+![](icons/code.svg) **Code** &nbsp; React, Next.js, Tailwind, TypeScript, Node.js
+
+###### Elsewhere
+
+[![](icons/site.svg) **blaasmo.dev**](https://blaasmo.dev) &nbsp; The longer version.  
+[![](icons/link.svg) **X**](https://x.com/creativepetter) &nbsp; @creativepetter
